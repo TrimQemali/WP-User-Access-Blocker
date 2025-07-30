@@ -1,0 +1,42 @@
+
+.user-blocker-search {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.user-blocker-list {
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+#user-search {
+    width: 300px;
+    margin-right: 10px;
+}
+
+#search-results {
+    margin-top: 10px;
+}
+
+.search-result-item {
+    background: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #e5e5e5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-result-item .user-info {
+    flex: 1;
+}
+
+.search-result-item .user-actions {
+    text-align: right;
+}
