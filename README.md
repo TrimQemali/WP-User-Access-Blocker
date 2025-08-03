@@ -1,5 +1,19 @@
-# WP-User-Access-Blocker
-User Access Blocker is a WordPress plugin that provides administrators with the ability to selectively block and unblock users from logging into their WordPress site. This plugin offers a clean, user-friendly interface for managing user access without permanently deleting user accounts.
+# Block User Login
+Plugin Name: Block User Login
+Description: Block User Login provides administrators with the ability to selectively block and unblock users from logging into their WordPress site.
+Version: 1.4.3
+Plugin URI:  https://techcreative.dev/block-user-login
+Author: TechCreative
+Author URI:  https://techcreative.dev/
+License:     GPL-3.0+
+Text Domain: block-user-login
+Domain Path: /languages
+Requires at least: 5.0
+Tested up to: 6.8
+Requires PHP: 7.4
+Stable tag: 1.4.3
+
+
 
 What It Does
 - Block Users: Prevent specific users from logging into your WordPress site
@@ -37,4 +51,4 @@ Requirements
 - Sanitized user input handling
 
 
-This plugin provides a simple yet effective solution for managing user access without the complexity of role-based systems or the permanence of user deletion.
+This plugin provides a simple yet effective solution for managing user access without complex role systems or permanent user deletion.
