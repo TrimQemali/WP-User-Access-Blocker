@@ -1,13 +1,18 @@
 <?php
 /**
  * Plugin Name: User Access Blocker
- * Description: Block or unblock users from logging into WordPress
+ * Description: Block or unblock users from logging into WordPress. User Access Blocker is a WordPress plugin that provides administrators with the ability to selectively block and unblock users from logging into their WordPress site. This plugin offers a clean, user-friendly interface for managing user access without permanently deleting user accounts.
  * Version: 1.4.3
  * Plugin URI:  https://techcreative.dev/
- * Description: User Access Blocker is a WordPress plugin that provides administrators with the ability to selectively block and unblock users from logging into their WordPress site. This plugin offers a clean, user-friendly interface for managing user access without permanently deleting user accounts.
  * Author: TechCreative
  * Author URI:  https://techcreative.dev/
  * License:     GPL-3.0+
+ * Text Domain: wp-user-access-blocker
+ * Domain Path: /languages
+ * Requires at least: 5.0
+ * Tested up to: 6.8.2
+ * Requires PHP: 7.4
+ * Network: false
  */
 
 // Exit if accessed directly
